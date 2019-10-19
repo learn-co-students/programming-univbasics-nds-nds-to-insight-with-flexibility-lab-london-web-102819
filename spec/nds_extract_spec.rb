@@ -43,11 +43,11 @@ describe 'movies_with_directors_set' do
             { :name => "Byron Poodle", :movies => [
               { :title => "At the park" },
               { :title => "On the couch" },
-            ]
+             ]
             },
             { :name => "Nancy Drew", :movies => [
               { :title => "Biting" },
-            ]
+             ]
             }
           ] 
         }
