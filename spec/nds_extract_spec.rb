@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'provided method' do
+#describe 'provided method' do
   describe 'flatten_a_o_a' do
     it 'flattens an a_a_a of Integers' do
       expect(flatten_a_o_a([[1,2],[3,4,5],[6]])).to eq([1,2,3,4,5,6])
